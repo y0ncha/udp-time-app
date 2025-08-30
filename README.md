@@ -1,12 +1,11 @@
 # TimeClient & TimeServer
 
 ## 1. Project Overview
-```
+
 This project simulates a UDP-based time service for Windows.
 The client sends various time-related requests (ReqCode 1–13) to the server,
 which replies with the requested time information.
 Built in C++ using Winsock2 and Visual Studio.
-```
 
 ## 2. Folder & File Structure
 ```
